@@ -5,7 +5,7 @@ This project contains our comprehensive Exploratory Data Analysis (EDA) for the 
 
 ## Project Structure
 ```
-├── Copilot/                    # Analysis outputs and data files
+├── Group 10/                  # Analysis outputs and data files
 │   ├── EDA Group 5.ipynb      # Main analysis notebook
 │   ├── cleaned_intentional_homicide.csv
 │   └── various output files (q*.csv)
@@ -29,7 +29,7 @@ This project contains our comprehensive Exploratory Data Analysis (EDA) for the 
 - Multiple visualization types
 
 ## Main Analysis File
-The primary analysis is contained in `Copilot/EDA Group 5.ipynb` which includes:
+The primary analysis is contained in `Group 10/EDA Group 5.ipynb` which includes:
 - Data loading and cleaning
 - Exploratory data analysis
 - Statistical summaries
@@ -56,4 +56,4 @@ Group 10 - PDA Course
 ## Usage
 1. Open the Jupyter notebooks to explore the analysis
 2. Review the final report in `outputs/final_report_1300.md`
-3. Check individual analysis results in the `Copilot/` directory
+3. Check individual analysis results in the `Group 10/` directory

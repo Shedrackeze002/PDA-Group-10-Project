@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Outputs and data
+/outputs/
+*.csv
+*.sqlite
+*.db
+
+# Notebook and cache
+*.ipynb_checkpoints
+
+# OneDrive desktop.ini and sync artifacts
+desktop.ini

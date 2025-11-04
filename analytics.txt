@@ -1,0 +1,81 @@
+04-638: Programming for Data Analytics
+Analytics Assignment I: 
+Exploratory Data Analysis and Reporting [Group Assignment] 
+Release Date: 24th October 2025	Due Date: 5th November 2025, 11.59pm CAT
+
+Points Total: 100 pts
+
+To submit: 
+Jupyter Notebook file, 
+PDF report (Max: 1300 words), and 
+PowerPoint presentation slides (Max: 10 slides)
+Submission Mechanism: Submit on Canvas.
+
+TASK CONTEXT:
+
+You will work in groups (of 3-4 students each). The groups have been formed for you. You will obtain the selected dataset from the UN website (https://data.un.org/) under the respective category. You are required to perform exploratory data analysis (EDA) on the data and produce a report summarizing the insights.
+All tasks, apart from the accompanying PDF report and PowerPoint presentation, should be accomplished within a Jupyter Notebook file. The task only entails exploratory data analysis (a.k.a. data exploration) and reporting. No machine learning processing should be attempted.
+Exploratory data analysis allows the analyst to detect anomalies, identify patterns, understand the data, and identify preliminary insights from the data. Methods can be quantitative, graphical, or a combination of both.
+TASK OBJECTIVES:
+
+Understand the dataset.
+Define analytics objectives or questions.
+Understand the attributes/variables, their types, relevance and significance, and their relationships.
+Prepare and clean the dataset in readiness for analytics.
+Perform exploratory data analysis
+Communicate insights.
+Toolkit: 
+Basic set: numpy, pandas, and matplotlib; 
+Advanced set: any other tools chosen by team, e.g., Seaborn, JavaScript, etc.
+TASK DESCRIPTION:
+
+From https://data.un.org/, select one of the following datasets and download and save the relevant CSV file.
+
+
+
+Perform a cursory examination of the CSV file to get an idea of the kind of data you are dealing with – the fields and the actual data. Some of the information obtained during this stage will be useful in subsequent tasks.
+
+[5 Pts] Based on the cursory examination, identify a set of ten (10) to twelve (12) preliminary questions that you would like to answer with the dataset. Add these questions to your Jupyter Notebook. You may also add more questions as your understanding of the data improves. Later, your EDA should seek to answer eight (8) of these questions. Provide your list of questions by Friday November 31st 2025.
+
+Load the data into appropriate pandas data frames. You are free to decide on which and how many data frames to use, in line with the cursory examination in 2) above.
+
+Perform exploratory data analysis (EDA) on the data (already in data frames) and produce insights centered around the following issues. Each issue should be described in the Jupyter Notebook using a Markdown/Heading cell. You should provide relevant graphics (where appropriate) and effective narrative descriptions for each significant observation as you perform the tasks in this section. See Useful References below for effective data storytelling.
+[6 Pts] Understanding the data- attributes/fields, data types, data size, significant fields, etc.
+[9 Pts] Understanding the basic statistics (if necessary) and the distribution of numerical data (if any).
+[15 Pts] Using relevant visualizations to help understand and communicate insights from the data.
+[5 Pts] Check missing values and outliers (and, where necessary, handle missing values). You can report on the outliers, but you do not need to handle them.
+[15 Pts] Determine trends, patterns, and relationships among the data e.g., increases, decreases, abrupt dips, abrupt rises, etc. when you compare two countries or two regions.
+[20 Pts] Answer the questions in 3) above. The eight (8) questions should be clearly labeled in the Notebook.
+
+[25 Pts] Produce a summary writeup that contains the following information:
+Metadata: Course Name and Code; Instructor; Assignment Title (see top of this document); Report Title (Choose a title for your group’s work); Group Members; Submission Date.
+Summary of insights that includes the following sections [Max (Strictly): 1300 words, 11pt Times New Roman]: Abstract, Background and Problem Description, Methods, Results and Discussion, Conclusion, References (at least six(6)). The references and metadata do not count in the 1300-word limit.
+
+REPORT GRADING:
+
+Abstract (3 pts); 
+Background and Problem Description (3 pts); 
+Methods (5 pts); 
+Results and Discussion(8 pts); 
+Conclusion(3 pts); 
+References(1.5 pts); 
+Formatting (1.5 pts).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USEFUL REFERENCES
+
+Nussbaumer Knaflic, Cole. Storytelling with Data: A Data Visualization Guide for Business Professionals. 1st ed. Hoboken: John Wiley & Sons, Incorporated, 2015. Print. Link: https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma99101951612 2904436
+Knaflic, Cole Nussbaumer, and Cathy Madden. Storytelling with Data: Let’s Practice! 1st edition. Hoboken, New Jersey: Wiley, 2020. Print. Link: https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma99101969593 3004436
+Vora, Sejal. The Power of Data Storytelling. First Edition. New Delhi: SAGE Publications India Pvt, Ltd, 2019. Web. Link: https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma99101969975 0704436

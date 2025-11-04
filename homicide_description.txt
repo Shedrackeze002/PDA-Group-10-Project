@@ -1,0 +1,17 @@
+Columns:
+UNODC, Unnamed: 1, Unnamed: 2, unodc-dass@un.org, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10, Unnamed: 11
+
+Preview (first 5 rows):
+                 UNODC Unnamed: 1                       Unnamed: 2 unodc-dass@un.org Unnamed: 4      Unnamed: 5         Unnamed: 6 Unnamed: 7 Unnamed: 8 Unnamed: 9          Unnamed: 10 Unnamed: 11
+0  2024-11-24 00:00:00        NaN                              NaN               NaN        NaN             NaN                NaN        NaN        NaN        NaN                  NaN         NaN
+1            Iso3_code     Region                        Subregion           Country     Source       Dimension           Category        Sex        Age       Year  Unit of measurement       VALUE
+2                  ARM       Asia                     Western Asia           Armenia        CTS  by citizenship  National citizens       Male      Total       2013               Counts          35
+3                  CHE     Europe                   Western Europe       Switzerland        CTS  by citizenship  National citizens       Male      Total       2013               Counts          28
+4                  COL   Americas  Latin America and the Caribbean          Colombia        CTS  by citizenship  National citizens       Male      Total       2013               Counts       15053
+
+Description:
+         UNODC Unnamed: 1                       Unnamed: 2 unodc-dass@un.org Unnamed: 4 Unnamed: 5 Unnamed: 6 Unnamed: 7 Unnamed: 8 Unnamed: 9 Unnamed: 10  Unnamed: 11
+count   118403     118398                           118398            118398     118402     118402     118402     118402     118402     118402      118402       118402
+unique     217          7                               24               215        247          7         25          4         12         35           3        47428
+top        CAN     Europe  Latin America and the Caribbean            Canada        CTS      Total      Total       Male      Total       2020      Counts            0
+freq      2204      51221                            38929              2204      82308      65286      65286      40025      77625      10111       63347        22127

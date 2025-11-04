@@ -1,0 +1,616 @@
+Iso3_code,Region,Subregion,Country,Dimension,Category,Sex,Age,Year,Counts
+WORLD,World,World,World,Total,Total,Total,Total,2016,451035.632884196
+WORLD,World,World,World,Total,Total,Total,Total,2017,450654.763354182
+WORLD,World,World,World,Total,Total,Total,Total,2014,449003.525326353
+WORLD,World,World,World,Total,Total,Total,Total,2012,445352.838820363
+WORLD,World,World,World,Total,Total,Total,Total,2013,444117.311804986
+WORLD,World,World,World,Total,Total,Total,Total,2015,442446.770400809
+WORLD,World,World,World,Total,Total,Total,Total,2002,442420.839721929
+WORLD,World,World,World,Total,Total,Total,Total,2001,439027.768102836
+WORLD,World,World,World,Total,Total,Total,Total,2011,438010.111947284
+WORLD,World,World,World,Total,Total,Total,Total,2018,436960.64954409
+WORLD,World,World,World,Total,Total,Total,Total,2003,436448.193049604
+WORLD,World,World,World,Total,Total,Total,Total,2021,434792.421414609
+WORLD,World,World,World,Total,Total,Total,Total,2010,427702.111620628
+WORLD,World,World,World,Total,Total,Total,Total,2000,427648.691007416
+WORLD,World,World,World,Total,Total,Total,Total,2004,427595.534539158
+WORLD,World,World,World,Total,Total,Total,Total,2009,423958.334788566
+WORLD,World,World,World,Total,Total,Total,Total,2022,423810.510134503
+WORLD,World,World,World,Total,Total,Total,Total,2019,421538.134390333
+WORLD,World,World,World,Total,Total,Total,Total,2005,419321.230098426
+WORLD,World,World,World,Total,Total,Total,Total,2006,416773.950366912
+WORLD,World,World,World,Total,Total,Total,Total,2020,416178.556949277
+WORLD,World,World,World,Total,Total,Total,Total,2008,415413.324532048
+WORLD,World,World,World,Total,Total,Total,Total,2007,410443.563896088
+WORLD,World,World,World,Total,Total,Male,Total,2016,366887.842512384
+WORLD,World,World,World,Total,Total,Male,Total,2017,366858.055457338
+WORLD,World,World,World,Total,Total,Male,Total,2014,364109.210618474
+WORLD,World,World,World,Total,Total,Male,Total,2012,360860.619517323
+WORLD,World,World,World,Total,Total,Male,Total,2015,360068.592387135
+WORLD,World,World,World,Total,Total,Male,Total,2013,359970.016026146
+WORLD,World,World,World,Total,Total,Male,Total,2002,356512.175139298
+WORLD,World,World,World,Total,Total,Male,Total,2018,354913.439560707
+WORLD,World,World,World,Total,Total,Male,Total,2011,354418.656284022
+WORLD,World,World,World,Total,Total,Male,Total,2001,352526.192222732
+WORLD,World,World,World,Total,Total,Male,Total,2003,352017.994079342
+WORLD,World,World,World,Total,Total,Male,Total,2021,350852.887000358
+WORLD,World,World,World,Total,Total,Male,Total,2010,345843.505277051
+WORLD,World,World,World,Total,Total,Male,Total,2004,343209.248861362
+WORLD,World,World,World,Total,Total,Male,Total,2000,343071.529017494
+WORLD,World,World,World,Total,Total,Male,Total,2009,341786.475664612
+WORLD,World,World,World,Total,Total,Male,Total,2019,341116.324344344
+WORLD,World,World,World,Total,Total,Male,Total,2022,339889.301457042
+WORLD,World,World,World,Total,Total,Male,Total,2005,337652.712894499
+WORLD,World,World,World,Total,Total,Male,Total,2008,337124.892016306
+WORLD,World,World,World,Total,Total,Male,Total,2006,336923.174276036
+WORLD,World,World,World,Total,Total,Male,Total,2020,336491.429116658
+WORLD,World,World,World,Total,Total,Male,Total,2007,331028.399102878
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2017,169878.331291813
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2016,165571.816427754
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2018,164366.367005788
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2012,162491.867461413
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2011,159695.570694086
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2013,159178.967244936
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2022,158346.172102576
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2014,158159.85816436
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2017,157470.285432345
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2021,157018.417726393
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2015,156991.636085605
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2010,156116.998809114
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2016,155195.485081051
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2018,154761.762281782
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2019,154703.111152042
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2022,154141.65496744
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2020,153916.019971814
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2021,152910.313725152
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2019,152797.512007325
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2009,151848.344950251
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2015,151682.951176576
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2017,151569.415943334
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2020,150125.129508207
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2014,149187.420062771
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2016,148259.161913868
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2018,146571.188262874
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2012,145523.645620154
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2013,143945.637488793
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2008,143778.153126645
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2011,142925.595560849
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2013,142608.491360334
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2014,141735.385572684
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2003,140859.351773126
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2002,140763.418815522
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2015,140710.599703008
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2012,140022.701903929
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2010,139875.148374166
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2001,138777.405121109
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2020,136934.99696237
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2022,136122.287226545
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2006,136035.116178752
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2009,135970.32276077
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2019,135937.660979881
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2011,135919.105499027
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2021,134995.955104003
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2007,133847.86356368
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2004,133445.134469766
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2005,132470.353534956
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2010,131768.906558752
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2017,131274.827204922
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Total,Total,2000,130698.729774463
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2009,129600.538457403
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2008,129138.424412837
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2016,129136.56916147
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2022,129077.657472006
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2021,128986.51244232
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2019,128817.788655221
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2018,128748.690098803
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2008,127859.698878414
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2015,126118.301439729
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2003,125887.602882974
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2000,125740.006835898
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2002,125518.192253341
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2007,125169.476553775
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2014,124371.697319858
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2001,124354.389651971
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2006,123964.901293627
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2020,123855.816600507
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2001,123438.812814799
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2002,122672.011890168
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2004,122187.103505201
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2006,121671.640175294
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2003,120828.144160283
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2005,120417.640132193
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2013,119826.189404851
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2007,119797.911563165
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2004,119059.131990018
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2002,118711.860378904
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2004,118696.563462458
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2005,118085.926024602
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2003,117923.048697735
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2005,117842.001686206
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2012,116740.823325337
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2012,116605.444208112
+BIG5_AMER,Americas,Americas,All Americas,Total,Total,Male,Total,2000,116578.473982243
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2001,116305.687829053
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2011,116199.857467579
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2006,115642.536395691
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2014,115162.953901488
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2013,115156.986685714
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2008,114462.829023697
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2009,114429.934276492
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2007,114324.777431883
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Total,Total,2000,113751.116399299
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2010,113079.243884714
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2011,112978.210380632
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2010,109057.354868379
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2009,107724.834776806
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2008,107118.905950773
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2021,106954.121729997
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2015,106934.544779616
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2007,104538.226035177
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2016,104284.346048222
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2006,103636.53259385
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2005,100576.508897899
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2017,100271.214409986
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2002,99134.2133573971
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2004,99100.7089610504
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2003,98416.6853193708
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2001,97181.9764927008
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2018,97046.8371104176
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Male,Total,2000,95070.3745651019
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2019,94380.4685409213
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2022,93726.7246478065
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Total,Total,2020,93191.0392133887
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2000,89580.552148474
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2001,88380.1838117663
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2002,87584.2296272794
+WORLD,World,World,World,Total,Total,Female,Total,2001,86501.5758801038
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2003,86222.5147682097
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2004,86177.1618124639
+WORLD,World,World,World,Total,Total,Female,Total,2002,85908.6645826312
+WORLD,World,World,World,Total,Total,Female,Total,2014,84894.3147078791
+WORLD,World,World,World,Total,Total,Female,Total,2000,84577.1619899223
+WORLD,World,World,World,Total,Total,Female,Total,2012,84492.2193030405
+WORLD,World,World,World,Total,Total,Female,Total,2003,84430.1989702625
+WORLD,World,World,World,Total,Total,Female,Total,2004,84386.2856777953
+WORLD,World,World,World,Total,Total,Female,Total,2016,84147.7903718118
+WORLD,World,World,World,Total,Total,Female,Total,2013,84147.2957788396
+WORLD,World,World,World,Total,Total,Female,Total,2021,83939.5344142506
+WORLD,World,World,World,Total,Total,Female,Total,2022,83921.2086774606
+WORLD,World,World,World,Total,Total,Female,Total,2017,83796.7078968438
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2005,83592.9262405943
+WORLD,World,World,World,Total,Total,Female,Total,2011,83591.4556632626
+WORLD,World,World,World,Total,Total,Female,Total,2015,82378.1780136733
+WORLD,World,World,World,Total,Total,Female,Total,2009,82171.8591239542
+WORLD,World,World,World,Total,Total,Female,Total,2018,82047.2099833829
+WORLD,World,World,World,Total,Total,Female,Total,2010,81858.6063435774
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2006,81851.8699404325
+WORLD,World,World,World,Total,Total,Female,Total,2005,81668.5172039272
+WORLD,World,World,World,Total,Total,Female,Total,2019,80421.8100459892
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2012,80076.8185425935
+WORLD,World,World,World,Total,Total,Female,Total,2006,79850.7760908764
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2008,79798.3035761004
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2007,79758.7755127729
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2011,79710.6616935931
+WORLD,World,World,World,Total,Total,Female,Total,2020,79687.127832619
+WORLD,World,World,World,Total,Total,Female,Total,2007,79415.1647932101
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2013,78984.3030577679
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2014,78909.0012374747
+WORLD,World,World,World,Total,Total,Female,Total,2008,78288.4325157427
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2009,78147.6059541069
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2010,78039.2041991196
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2021,73948.9008961293
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2015,73910.2842254471
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2016,70806.8947406008
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2017,67372.1787876146
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2018,64758.9149435832
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2017,63788.0
+NGA,Africa,Sub-Saharan Africa,Nigeria,Total,Total,Total,Total,2016,63400.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2019,62122.2773302995
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2022,62028.0920622688
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Male,Total,2020,61967.5837511955
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2016,61208.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2014,59733.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2002,59282.3405144962
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2017,58750.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2001,58662.5587070247
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2015,58184.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2013,56845.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2000,56496.3203199482
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2016,56465.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2012,56388.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2018,55980.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2003,55779.2710878351
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2014,54786.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2015,53467.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2010,52289.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2004,52252.0353109787
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2011,52233.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2013,51973.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2012,51591.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2009,51461.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2018,51334.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2003,51064.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2008,50135.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2002,49710.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1992,49688.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1998,49292.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2006,49165.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1991,48574.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2004,48394.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2000,48167.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2001,47955.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1993,47947.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1994,47870.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1999,47781.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2010,47777.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2007,47731.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2020,47722.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2011,47650.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2011,47640.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2005,47593.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2005,47559.4711813926
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2012,47478.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1994,47458.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1997,47418.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2014,47356.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2009,47131.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2003,47102.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1996,46912.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2004,46490.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2010,46460.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2001,46420.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1995,46386.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2008,46042.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2008,45999.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2013,45878.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2009,45824.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2002,45787.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2002,45736.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2021,45562.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2000,45375.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2007,45362.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1995,45257.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2005,45095.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2006,45080.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1993,45060.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2006,44961.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2004,44535.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2015,44373.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2022,44367.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2003,44331.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2002,44252.0
+NGA,Africa,Sub-Saharan Africa,Nigeria,Total,Total,Total,Total,2019,44200.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,1990,44162.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,2019,44073.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2001,44052.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2007,43906.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2020,43780.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2005,43678.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2002,43620.2546985295
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2001,42921.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2001,42914.0220534787
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1999,42914.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2016,42320.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1998,41950.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2017,41832.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2003,41764.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2018,41651.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2021,41644.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2000,41600.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2021,41330.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2000,41237.4552111878
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2020,41171.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2000,41090.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2019,40976.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2003,40767.7873711507
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1997,40507.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2022,40504.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,2019,40268.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2022,40130.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2006,40080.0458123748
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1999,39334.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2004,39256.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1996,39083.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1996,38894.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1998,38404.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1999,38225.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2004,38197.2140322955
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1997,36881.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2020,36773.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2018,36685.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2012,36664.0047827437
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2019,36661.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2020,36588.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1994,36573.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2011,36489.1957739864
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2019,36459.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2018,36418.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2009,36282.3283223851
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2014,36253.9526640137
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2007,36177.2003267834
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2013,36172.6836279457
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2000,36159.4546874238
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2004,36009.9416927369
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2001,35974.2058402049
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2021,35700.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2005,35636.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2021,35511.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1996,35171.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2002,35087.7822628882
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2010,35040.0396855948
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1997,34995.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2005,34735.0284857722
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2008,34664.5254475969
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2003,34605.6293920736
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2007,34566.0019191098
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1995,34480.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1993,34442.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2005,34249.0754456112
+BRA,Americas,Latin America and the Caribbean,Brazil,by mechanisms,Firearms or explosives,Total,Total,2020,34003.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1995,34000.0905836817
+BRA,Americas,Latin America and the Caribbean,Brazil,by mechanisms,Firearms or explosives - firearms,Total,Total,2020,33994.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1992,33912.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2006,33790.6664552589
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1998,33553.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2002,33536.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2016,33477.4513076209
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2022,33287.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,1999,33117.6152812557
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2015,33024.2605541687
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2021,33005.2208338675
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2000,32971.279643191
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2022,32954.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2017,32899.0356223717
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2018,32765.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2018,32567.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2019,32530.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2019,32363.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2020,32336.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2018,32287.9221668344
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2019,32258.1912106218
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2023,32252.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2020,32188.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2001,32165.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2017,32079.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2023,32000.0
+IND,Asia,Southern Asia,India,Total,Total,Male,30-44,2008,31941.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2022,31698.6325855377
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2017,31653.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2003,31459.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2001,31448.1100338036
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2021,31263.0
+BIG5_ASIA,Asia,Asia,All Asia,Total,Total,Female,Total,2020,31223.4554621932
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2002,31217.395003182
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2021,31121.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1995,30950.9401577797
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2000,30753.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2004,30626.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2003,29858.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1994,29851.4119290109
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2005,29827.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2019,29820.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2004,29615.0
+IRQ_C,Asia,Western Asia,Iraq (Central Iraq),by situational context,Socio-political homicide - terrorist offences,Total,Total,2021,29552.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1996,29440.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2006,29389.0789127287
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1990,29301.1892957654
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2022,29268.5146305698
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2014,29072.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2006,29055.9650644225
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2012,29027.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2008,29006.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2011,28909.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2006,28844.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2022,28745.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2010,28589.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2007,28568.0
+IRQ_C,Asia,Western Asia,Iraq (Central Iraq),by situational context,Socio-political homicide - terrorist offences,Male,Total,2021,28538.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2017,28522.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2022,28487.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1993,28441.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1991,28424.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,2002,28387.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1999,28355.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2008,28300.6004542348
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2023,28243.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1992,28184.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2017,28171.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1991,28148.4728791161
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2023,28044.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2021,28031.9052840728
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1993,28012.7512962489
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2009,27970.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2013,27967.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2020,27860.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,2001,27840.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2018,27624.0
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,1995,27356.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2021,27339.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2015,27284.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2022,27272.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1994,27248.8588737598
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2011,27213.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1994,27079.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2009,26952.7203465987
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1990,26930.6467841995
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,1995,26877.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2005,26787.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,2000,26539.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1991,26403.3090130215
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2007,26345.2426766259
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1993,26326.3809942807
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1997,26307.0
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,2002,26276.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2020,26269.3129076996
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2017,26195.458227423
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,2002,26144.9796799194
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1992,26134.0
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,1997,26070.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2016,26058.9159195811
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1992,26056.3916811092
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2018,26013.0721829795
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2012,25967.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Total,Total,1992,25966.8401382978
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,1994,25965.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2019,25885.3224968206
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2019,25871.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2019,25867.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2010,25757.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2018,25701.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2018,25699.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2010,25660.7707604576
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2015,25656.291185494
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1991,25647.7110110154
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2020,25639.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2020,25635.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,2001,25625.6545025116
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1993,25608.2783889662
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2015,25564.6497368469
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,1996,25470.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2017,25448.0
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,1996,25411.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2007,25377.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2014,25340.2072865208
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2022,25267.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2021,25181.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,1998,25130.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,1998,25127.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2011,25099.2094337483
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1994,25078.9580014482
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2012,24991.0509343191
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2014,24815.7227429129
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2016,24804.7640276893
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,2004,24711.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1991,24703.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2013,24702.1710022315
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,2000,24614.9340407027
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2016,24559.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2020,24530.3
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1993,24526.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2021,24500.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2021,24496.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,1997,24486.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2016,24454.82
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,2003,24393.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1999,24355.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1990,24330.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2021,24317.6242315921
+IND,Asia,Southern Asia,India,Total,Total,Male,30-44,2011,24294.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2011,24257.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2013,24119.4480839418
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2018,24070.38
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2017,23934.05
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2016,23934.0
+BRA,Americas,Latin America and the Caribbean,Brazil,Total,Total,Male,Total,1992,23770.5347939263
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1992,23760.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2022,23751.115912132
+IND,Asia,Southern Asia,India,Total,Total,Male,30-44,2012,23552.0
+IND,Asia,Southern Asia,India,Total,Total,Male,Total,2019,23547.12
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,2003,23523.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1990,23438.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2012,23417.257695817
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1996,23350.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1994,23326.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2010,23285.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1997,23200.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1998,23089.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2013,23063.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,2021,23062.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2012,22986.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2011,22940.8951183955
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2010,22711.5516903734
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1991,22621.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,1999,22604.0
+IRQ_C,Asia,Western Asia,Iraq (Central Iraq),by situational context,Socio-political homicide - terrorist offences,Total,Total,2020,22579.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1999,22558.4664654205
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1990,22494.5949319685
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2006,22457.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2023,22368.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2023,22355.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,1995,22321.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2022,22315.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2022,22309.0
+IND,Asia,Southern Asia,India,Total,Total,Male,30-44,2013,22266.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2004,22243.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,2022,22243.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Male,Total,2022,22236.0
+IND,Asia,Southern Asia,India,Total,Total,Male,30-44,2009,22229.0
+IND,Asia,Southern Asia,India,Total,Total,Male,30-44,2010,22210.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives,Total,Total,2017,21920.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by mechanisms,Firearms or explosives - firearms,Total,Total,2017,21917.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2009,21875.7036805966
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2017,21863.041404636
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2000,21758.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2016,21673.0
+IRQ_C,Asia,Western Asia,Iraq (Central Iraq),by situational context,Socio-political homicide - terrorist offences,Male,Total,2020,21649.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2006,21629.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1995,21606.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1996,21605.0223349028
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,2020,21570.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2002,21553.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,2003,21522.846692112
+MEX,Americas,Latin America and the Caribbean,Mexico,by citizenship,National citizens,Male,Total,2016,21466.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1997,21459.4123089123
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2001,21405.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1998,21362.6584130329
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2019,21325.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Male,Total,2016,21195.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2017,21187.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,1990,21145.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2018,21022.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2005,20998.0
+TUR,Asia,Western Asia,Türkiye,Total,Total,Total,Total,2013,20905.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2008,20834.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Male,Total,2021,20815.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2016,20793.0
+CHN,Asia,Eastern Asia,China,Total,Total,Total,Total,2005,20770.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2015,20762.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2008,20740.792927641
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,1995,20666.1820159536
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2007,20631.2505185974
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2007,20597.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2008,20450.6573272784
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2017,20336.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2006,20328.3686997777
+IRQ_C,Asia,Western Asia,Iraq (Central Iraq),by situational context,Socio-political homicide - terrorist offences,Total,Total,2019,20296.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Male,Total,2013,20280.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Total,Total,2004,20210.0
+MEX,Americas,Latin America and the Caribbean,Mexico,by relationship to perpetrator,Perpetrator to victim relationship unknown,Total,Total,2015,20205.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2014,20010.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2020,19972.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2005,19841.1312342941
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2003,19824.0
+MEX,Americas,Latin America and the Caribbean,Mexico,Total,Total,Total,Total,2009,19803.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,2023,19796.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,1996,19645.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2018,19615.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2004,19595.8545014076
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2002,19577.6470215065
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Total,Total,2018,19541.3044266579
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2003,19506.3633783642
+IRQ_C,Asia,Western Asia,Iraq (Central Iraq),by situational context,Socio-political homicide - terrorist offences,Male,Total,2019,19416.0
+USA,Americas,Northern America,United States of America,Total,Total,Male,Total,1991,19268.34
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Male,Total,2007,19181.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2009,19152.0720068722
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2001,19123.7113363526
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2006,19106.0
+USA,Americas,Northern America,United States of America,Total,Total,Total,Total,2001,19033.0
+VEN,Americas,Latin America and the Caribbean,Venezuela (Bolivarian Republic of),Total,Total,Total,Total,2014,19030.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2016,19016.0
+USA,Americas,Northern America,United States of America,Total,Total,Male,Total,1993,18958.598
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2004,18793.0
+IND,Asia,Southern Asia,India,Total,Total,Female,Total,2011,18731.0
+BIG5_AFR,Africa,Africa,All Africa,Total,Total,Female,Total,2000,18680.7418341975
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2015,18673.0
+IND,Asia,Southern Asia,India,Total,Total,Total,Total,2009,18660.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Male,Total,2019,18630.0
+COL,Americas,Latin America and the Caribbean,Colombia,Total,Total,Male,Total,2004,18581.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2015,18567.2899918718
+USA,Americas,Northern America,United States of America,Total,Total,Male,Total,1992,18532.8
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2005,18528.0
+RUS,Europe,Eastern Europe,Russian Federation,Total,Total,Total,Total,2004,18518.0
+IND,Asia,Southern Asia,India,Total,Total,Female,Total,2012,18451.0
+USA,Americas,Northern America,United States of America,by mechanisms,Firearms or explosives,Total,Total,2021,18400.0
+ZAF,Africa,Sub-Saharan Africa,South Africa,Total,Total,Total,Total,2007,18400.0
+USA,Americas,Northern America,United States of America,by mechanisms,Firearms or explosives - firearms,Total,Total,2021,18395.0
+BIG5_EUR,Europe,Europe,All Europe,Total,Total,Male,Total,2014,18384.7272736567
